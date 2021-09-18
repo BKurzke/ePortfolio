@@ -1,0 +1,47 @@
+html, body {
+background: #0B132B;
+font-family: 'lato', helvetica, arial, sans-serif;
+font size: 15px;
+color: #3380ff;
+}
+
+p{
+font-size: 1em;
+line-height: 1.4em;
+margin-bottom: 10px;
+color: #709CD1;
+}
+
+
+h1{
+border-bottom: 5px solid #3380ff;
+padding: 10px 0 0
+}
+
+h2{
+font-size: 20px;
+color: #3380ff;
+padding: 20px 0 0
+}
+
+h3{
+font-size: 20px;
+line height: 1.6em;
+color: #709CD1;
+}
+
+
+img {border: 5px solid #3380ff;}
+img {display: block; margin-left: auto; margin-right: auto }
+
+<style>
+footer {
+	position: fixed;
+	width: 100%;
+	left: 0;
+	bottom: 0;
+	background-color: brown;
+	color: white;
+	text-align: center;
+}
+</style>
